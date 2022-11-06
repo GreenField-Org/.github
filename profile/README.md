@@ -14,5 +14,6 @@ Some of what we know:
 - Svelte
 - React Native
 - NextJS
+- Wordpress
 - Remix
 

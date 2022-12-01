@@ -11,6 +11,7 @@ Some of what we know:
 - JavaScript
 - TypeScript
 - React
+- SolidJS
 - Svelte
 - React Native
 - NextJS

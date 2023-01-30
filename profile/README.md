@@ -6,6 +6,10 @@ choosing a tech stack.
 Some of what we know: 
 - HTML
 - CSS
+- TailwindCSS
+- Bootstrap
+- React Magma
+- MUI 
 - JavaScript
 - TypeScript
 - React

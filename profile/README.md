@@ -8,7 +8,6 @@ Some of what we know:
 - CSS
 - TailwindCSS
 - Bootstrap
-- React Magma
 - MUI 
 - JavaScript
 - TypeScript
